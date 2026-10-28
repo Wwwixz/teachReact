@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "iPhone 16",
+    "category": "Смартфоны",
+    "brand": "Apple",
+    "price": 79990,
+    "rating": 4.8,
+    "reviewsCount": 125,
+    "image": "/images/iphone-16.webp",
+    "description": "Смартфон Apple с дисплеем 6.1 дюйма",
+    "inStock": true,
+    "specifications": {
+      "screen": "6.1 дюйма",
+      "storage": "128 ГБ",
+      "processor": "Apple A18"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Samsung Galaxy S25",
+    "category": "Смартфоны",
+    "brand": "Samsung",
+    "price": 69990,
+    "rating": 4.6,
+    "reviewsCount": 98,
+    "image": "/images/samsung-galaxy-s25.webp",
+    "description": "Компактный флагманский смартфон Samsung с AMOLED-дисплеем 6,2 дюйма и процессором Snapdragon 8 Elite",
+    "inStock": true,
+    "specifications": {
+        "screen": "6.2 дюйма",
+        "storage": "256 ГБ",
+        "processor": "Snapdragon 8 Elite",
+        "battery": "4000 мАч",
+        "camera": "108 МП"
+        }
+    }
+]
