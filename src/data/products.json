@@ -7,7 +7,7 @@
     "price": 79990,
     "rating": 4.8,
     "reviewsCount": 125,
-    "image": "/images/iphone-16.webp",
+    "image": "/images/products/iphone-16.webp",
     "description": "Смартфон Apple с дисплеем 6.1 дюйма",
     "inStock": true,
     "specifications": {
@@ -24,7 +24,7 @@
     "price": 69990,
     "rating": 4.6,
     "reviewsCount": 98,
-    "image": "/images/samsung-galaxy-s25.webp",
+    "image": "/images/products/samsung-galaxy-s25.webp",
     "description": "Компактный флагманский смартфон Samsung с AMOLED-дисплеем 6,2 дюйма и процессором Snapdragon 8 Elite",
     "inStock": true,
     "specifications": {
